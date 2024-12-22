@@ -14,7 +14,7 @@ Categorical Features: [List categorical features].
 
 Target Variable: [Description of the target variable].
 
-### Observations from the Dataset:
+## Observations from the Dataset:
 
 Missing values exist in [specific columns].
 
@@ -32,7 +32,7 @@ Approach: Use supervised learning techniques for [classification/regression] tas
 
 **Step 2:** Data Preprocessing
 
-### Missing Data Handling:
+## Missing Data Handling:
 
 Numerical features: Imputed using [median/mean].
 
@@ -46,7 +46,7 @@ Used [One-Hot Encoding/Label Encoding] for categorical variables.
 
 Standardized numerical features using [standard scaling].
 
-**Data Splitting:**
+## Data Splitting:
 
 Split dataset into training, validation, and test sets in an 80-10-10 ratio.
 
@@ -64,7 +64,7 @@ Hyperparameter tuning using [Grid Search/Randomized Search].
 
 ****Step 5**:** Model Evaluation
 
-**Metrics Used:**
+## Metrics Used:
 
 Accuracy for classification.
 
@@ -133,7 +133,7 @@ Add domain-specific derived features.
 
 Experiment with advanced techniques like XGBoost, LightGBM, or Neural Networks.
 
-## ***Deployment:***
+## Deployment:
 
 Package the solution into an API for real-time predictions.
 
